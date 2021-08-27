@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://ramda-adjunct-feeder.openode.io/feed-stylesheet.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <updated>2021-06-08T08:01:23.279Z</updated>
+    <icon>https://ramda-adjunct-feeder.openode.io/favicon.ico</icon>
+    <id>https://char0n.github.io/ramda-adjunct/2.33.0/</id>
+    <link rel="self" href="https://ramda-adjunct-feeder.openode.io/feed" type="application/atom+xml" />
+    <subtitle>Get a new Ramda Adjunct api method in your RSS feed each day.</subtitle>
+    <title>Ramda Adjunct Daily Feed</title>
+    
+</feed>

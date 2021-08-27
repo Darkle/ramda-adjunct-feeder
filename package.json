@@ -1,0 +1,26 @@
+{
+  "name": "ramda-adjunct-feeder",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=development node index.js",
+    "start": "NODE_ENV=production node index.js",
+    "deploy": "openode deploy"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {},
+  "dependencies": {
+    "@airbrake/node": "^1.2.0",
+    "cron": "^1.8.2",
+    "express": "^4.17.1",
+    "got": "^11.3.0",
+    "html-escaper": "^3.0.0",
+    "jsdom": "^16.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.28.0",
+    "openode": "^2.1.2"
+  }
+}
